@@ -1,7 +1,5 @@
-<!-- Personal Portfolio -->
+MY PERSONAL PORTFOLIO
 
-#My Personal Portfolio.
-
-##"This is a brief description about myself "
-##" The Projects I am Working on "
-##" And How You can Reach me"
+This is a brief description about myself
+The projects i am working on.
+And my Contact information.
